@@ -15,7 +15,7 @@ This is a Multilanguage Online IDE developed using HTML, CSS, JQUERY and PHP. PH
 ## Run
 - On your browser, type localhost and navigate to ide.html like this >> ui -> ide.html
 
-##Snapshots
+## Snapshots
 
 ![](https://github.com/olumide1128/Multilanguage-Online-IDE-Using-PHP-and-JQuery/blob/master/screenshots/Screenshot%20(196).png)
 
